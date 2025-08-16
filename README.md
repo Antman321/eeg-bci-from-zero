@@ -35,3 +35,4 @@ EEG-BCI-from-Zero/
 ```bash
 git clone https://github.com/<Twoj-Login>/eeg-bci-from-zero.git
 cd eeg-bci-from-zero
+![EEG raw signal](assets/eeg_raw.png)
