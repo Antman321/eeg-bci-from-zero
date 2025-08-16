@@ -60,9 +60,9 @@ Obrazek można użyć w README lub do dalszej analizy.
 
 ## Przykładowe użycie w README
 
-```
+
 ![EEG Raw](assets/eeg_raw.png)
-```
+
 
 ---
 
