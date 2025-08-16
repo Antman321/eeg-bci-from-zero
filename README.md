@@ -61,7 +61,7 @@ Obrazek można użyć w README lub do dalszej analizy.
 ## Przykładowe użycie w README
 
 ```
-![EEG Raw]([assets/eeg_raw.png](https://github.com/Antman321/eeg-bci-from-zero/blob/main/assets/eeg_raw.png?raw=true))
+![EEG Raw](https://github.com/Antman321/eeg-bci-from-zero/blob/main/assets/eeg_raw.png?raw=true)
 ```
 
 ---
