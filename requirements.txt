@@ -2,3 +2,8 @@ numpy
 matplotlib
 mne
 scikit-learn
+scipy
+pandas
+joblib
+streamlit
+pyEDFlib
